@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16901789958",
+    "firebase_url": "https://basket-protocol.firebaseio.com",
+    "project_id": "basket-protocol",
+    "storage_bucket": "basket-protocol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16901789958:android:04927a61ec93b37ad92687",
+        "android_client_info": {
+          "package_name": "com.example.basket_protocol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16901789958-1t3goi4qvq34o3qhb913fisiuouvo7nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basket_protocol",
+            "certificate_hash": "9766d8bbec8769f72810da3b0f308a63adc1896a"
+          }
+        },
+        {
+          "client_id": "16901789958-9abgbdcs2sc6rlcrbvhd7ccqc3nc00cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtm8FYo_dB2r0CTxyXK0iLdbDLaPIfKvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16901789958-9abgbdcs2sc6rlcrbvhd7ccqc3nc00cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
