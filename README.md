@@ -1,9 +1,9 @@
-# Table of Contents - BasketProtocol v0.9.5
+# Table of Contents - old-basketprotocol v0.9.5
 1. [About](#About)
 2. [Used packages](#Used-packages)
 3. [Screenshots](#Screenshots)
 4. [ToDo](#ToDo)
-5. [License](https://github.com/kachmashk/BasketProtocol/blob/develop/LICENSE)
+5. [License](https://github.com/kachmashk/old-basketprotocol/blob/develop/LICENSE)
 
 ## About
 My mobile solution for an old idea of making basketball protocols finally coming to be real thing with Flutter.
@@ -28,15 +28,15 @@ All of that should be added in the future for the release. You can look up every
 ## Screenshots
 | Sign In | 3PTS Contest Setup | 3PTS Contest | Summary During 3PTS Contest |
 | ----------- | ----------- | ----------- | ----------- |
-| ![Sign In](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/Sign%20In.png?token=ADIPES5LLACU2CDPTA37YUS7TQSKE) | ![3PTS Contest Setup](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/contests/3PTS%20Contest%20Setup.png?token=ADIPESZILJ274PB65TUWSW27TQSOQ) | ![3PTS Contest](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/contests/3PTS%20Contest.png?token=ADIPES2MY44FMFGQXMR536S7TQSOS) | ![Summary During 3PTS Contest](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/contests/Summary%20During%20Contest.png?token=ADIPES2UQYNC3YCJDXLD4NS7TQSOW)
+| ![Sign In](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/Sign%20In.png?token=ADIPES5LLACU2CDPTA37YUS7TQSKE) | ![3PTS Contest Setup](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/contests/3PTS%20Contest%20Setup.png?token=ADIPESZILJ274PB65TUWSW27TQSOQ) | ![3PTS Contest](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/contests/3PTS%20Contest.png?token=ADIPES2MY44FMFGQXMR536S7TQSOS) | ![Summary During 3PTS Contest](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/contests/Summary%20During%20Contest.png?token=ADIPES2UQYNC3YCJDXLD4NS7TQSOW)
 
 | Match Squads Setup | Match Settings Setup | Match | Summary During Match |
 | ----------- | ----------- | ----------- | ----------- | 
-| ![Match Squads Setup](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/matches/Match%20Squad.png?token=ADIPESZABT26KJFRV232VC27TQS4U) | ![Match Settings Setup](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/matches/Math%20Confirm.png?token=ADIPES6HPOGVBLQLCI6XJAC7TQS4Y) | ![Match](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/matches/Match.png?token=ADIPESZJZVXQ6FQXAOUFVY27TQS42) | ![Summary During Match](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/matches/Summary%20During%20Match.png?token=ADIPES2VMEH3X6WLHLVKGHK7TQS44)
+| ![Match Squads Setup](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/matches/Match%20Squad.png?token=ADIPESZABT26KJFRV232VC27TQS4U) | ![Match Settings Setup](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/matches/Math%20Confirm.png?token=ADIPES6HPOGVBLQLCI6XJAC7TQS4Y) | ![Match](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/matches/Match.png?token=ADIPESZJZVXQ6FQXAOUFVY27TQS42) | ![Summary During Match](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/matches/Summary%20During%20Match.png?token=ADIPES2VMEH3X6WLHLVKGHK7TQS44)
 
 | Activities Search | 3PTS Contest Summary | Match Summary |
 | ----------- | ----------- | ----------- |
-| ![Activities Search](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/Activity%20Search.png?token=ADIPES6Q7RACGKB7N6JK3K27TQTJK) | ![3PTS Contest Summary](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/contests/Summary%20After%20Contest.png?token=ADIPESZXDPCVZZMG6B5J5MK7TQTKE) | ![Match Summary](https://raw.githubusercontent.com/kachmashk/BasketProtocol/develop/screenshots/matches/Summary%20After%20Match.png?token=ADIPES6JSESCDFKNV4EJR427TQTKK)
+| ![Activities Search](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/Activity%20Search.png?token=ADIPES6Q7RACGKB7N6JK3K27TQTJK) | ![3PTS Contest Summary](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/contests/Summary%20After%20Contest.png?token=ADIPESZXDPCVZZMG6B5J5MK7TQTKE) | ![Match Summary](https://raw.githubusercontent.com/kachmashk/old-basketprotocol/develop/screenshots/matches/Summary%20After%20Match.png?token=ADIPES6JSESCDFKNV4EJR427TQTKK)
 
 # ToDo
 ## v0.9.5:
